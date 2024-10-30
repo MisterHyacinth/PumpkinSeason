@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pumpkinseason:kabocha"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "pumpkinseason:kabocha_seeds"
+  }
+}

@@ -26,7 +26,7 @@ public class PumpkinRecipeProvider extends FabricRecipeProvider {
     @Override
     public void generate(RecipeExporter exporter) {
 
-        ShapedRecipeJsonBuilder.create(RecipeCategory.BUILDING_BLOCKS, PumpkinRegistry.HANGING_COBWEB, 3)
+        ShapedRecipeJsonBuilder.create(RecipeCategory.DECORATIONS, PumpkinRegistry.HANGING_COBWEB, 3)
                 .input('S', Items.STRING)
                 .pattern("S S")
                 .pattern(" S ")
@@ -422,9 +422,23 @@ public class PumpkinRecipeProvider extends FabricRecipeProvider {
                 PumpkinRegistry.TINY_CARVED_PUMPKIN, Items.REDSTONE_TORCH);
 
 
+        offerShapelessRecipe(exporter, PumpkinItemRegistry.BUTTERNUT_SEEDS, PumpkinRegistry.BUTTERNUT_SQUASH,
+                "", 4);
+        offerShapelessRecipe(exporter, PumpkinItemRegistry.GHOST_PUMPKIN_SEEDS, PumpkinRegistry.GHOST_PUMPKIN,
+                "", 4);
+        offerShapelessRecipe(exporter, PumpkinItemRegistry.KABOCHA_SEEDS, PumpkinRegistry.KABOCHA,
+                "", 4);
+        offerShapelessRecipe(exporter, PumpkinItemRegistry.MIDNIGHT_PUMPKIN_SEEDS, PumpkinRegistry.MIDNIGHT_PUMPKIN,
+                "", 4);
+        offerShapelessRecipe(exporter, PumpkinItemRegistry.MINI_PUMPKIN_SEEDS, PumpkinRegistry.MINI_PUMPKIN,
+                "", 4);
+        offerShapelessRecipe(exporter, PumpkinItemRegistry.TINY_PUMPKIN_SEEDS, PumpkinRegistry.TINY_PUMPKIN,
+                "", 1);
 
         offerFoodCookingRecipeFromTag(exporter, PumpkinItemTags.RAW_PUMPKIN_SEEDS,
                 PumpkinItemRegistry.PEPITAS, 0.1F);
+
+
 
 
     }
@@ -433,7 +447,7 @@ public class PumpkinRecipeProvider extends FabricRecipeProvider {
 
     public static void offerCobwebRecipe(RecipeExporter exporter, ItemConvertible cobweb, ItemConvertible hangingCobweb,
                                          Ingredient ingredients) {
-        ShapedRecipeJsonBuilder.create(RecipeCategory.BUILDING_BLOCKS, cobweb, 4)
+        ShapedRecipeJsonBuilder.create(RecipeCategory.DECORATIONS, cobweb, 4)
                 .input('#', Items.COBWEB)
                 .input('I', ingredients)
                 .pattern(" # ")
@@ -441,7 +455,7 @@ public class PumpkinRecipeProvider extends FabricRecipeProvider {
                 .pattern(" # ")
                 .criterion(hasItem(Items.COBWEB), conditionsFromItem(Items.COBWEB))
                 .offerTo(exporter);
-        ShapedRecipeJsonBuilder.create(RecipeCategory.BUILDING_BLOCKS, hangingCobweb, 3)
+        ShapedRecipeJsonBuilder.create(RecipeCategory.DECORATIONS, hangingCobweb, 3)
                 .input('S', Items.STRING)
                 .input('I', ingredients)
                 .pattern("SIS")

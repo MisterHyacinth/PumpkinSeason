@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_butternut_squash": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pumpkinseason:butternut_squash"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:butternut_seeds_from_butternut_squash"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_butternut_squash"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:butternut_seeds_from_butternut_squash"
+    ]
+  }
+}

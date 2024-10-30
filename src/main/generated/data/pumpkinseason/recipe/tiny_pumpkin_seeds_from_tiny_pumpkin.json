@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pumpkinseason:tiny_pumpkin"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "pumpkinseason:tiny_pumpkin_seeds"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_midnight_pumpkin": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pumpkinseason:midnight_pumpkin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:midnight_pumpkin_seeds_from_midnight_pumpkin"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_midnight_pumpkin"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:midnight_pumpkin_seeds_from_midnight_pumpkin"
+    ]
+  }
+}
