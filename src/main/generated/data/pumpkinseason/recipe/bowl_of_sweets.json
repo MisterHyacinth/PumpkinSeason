@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:candy"
+    },
+    {
+      "tag": "c:candy"
+    },
+    {
+      "tag": "c:candy"
+    },
+    {
+      "tag": "c:candy"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "pumpkinseason:bowl_of_sweets"
+  }
+}

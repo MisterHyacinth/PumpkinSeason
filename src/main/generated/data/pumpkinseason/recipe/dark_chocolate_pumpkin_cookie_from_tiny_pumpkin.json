@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pumpkinseason:tiny_pumpkin"
+    },
+    {
+      "item": "pumpkinseason:tiny_pumpkin"
+    },
+    {
+      "item": "pumpkinseason:tiny_pumpkin"
+    },
+    {
+      "item": "pumpkinseason:tiny_pumpkin"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "id": "pumpkinseason:dark_chocolate_pumpkin_cookie"
+  }
+}

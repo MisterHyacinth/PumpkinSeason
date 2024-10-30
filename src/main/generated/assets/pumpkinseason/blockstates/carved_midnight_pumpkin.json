@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "pumpkinseason:block/carved_midnight_pumpkin",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "pumpkinseason:block/carved_midnight_pumpkin"
+    },
+    "facing=south": {
+      "model": "pumpkinseason:block/carved_midnight_pumpkin",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "pumpkinseason:block/carved_midnight_pumpkin",
+      "y": 270
+    }
+  }
+}

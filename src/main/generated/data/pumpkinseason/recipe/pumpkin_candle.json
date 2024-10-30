@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": {
+      "item": "minecraft:honeycomb"
+    },
+    "P": {
+      "tag": "pumpkinseason:raw_pumpkin_seeds"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "S",
+    "H",
+    "P"
+  ],
+  "result": {
+    "count": 1,
+    "id": "pumpkinseason:pumpkin_candle"
+  }
+}

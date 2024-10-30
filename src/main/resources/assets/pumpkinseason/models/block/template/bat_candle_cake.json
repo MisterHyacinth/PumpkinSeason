@@ -1,0 +1,108 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "#side"
+	},
+	"elements": [
+		{
+			"name": "body",
+			"from": [6, 8, 6],
+			"to": [10, 14, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 0]},
+			"faces": {
+				"north": {"uv": [7, 8, 12, 16], "texture": "#bat_front"},
+				"east": {"uv": [6, 8, 11, 16], "texture": "#bat_sides"},
+				"south": {"uv": [0, 8, 5, 16], "texture": "#bat_sides"},
+				"west": {"uv": [11, 8, 6, 16], "texture": "#bat_sides"},
+				"up": {"uv": [0, 0, 5, 5], "texture": "#bat_sides"},
+				"down": {"uv": [6, 0, 11, 5], "texture": "#bat_sides", "cullface": "down"}
+			}
+		},
+		{
+			"name": "right ear",
+			"from": [8.5, 14, 8.5],
+			"to": [10, 16, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 0]},
+			"faces": {
+				"north": {"uv": [7, 6, 9, 8], "texture": "#bat_front"},
+				"east": {"uv": [7, 6, 8, 8], "texture": "#bat_front"},
+				"south": {"uv": [2, 6, 0, 8], "texture": "#bat_sides"},
+				"west": {"uv": [0, 6, 1, 8], "texture": "#bat_sides"},
+				"up": {"uv": [9, 6, 7, 7], "texture": "#bat_front"}
+			}
+		},
+		{
+			"name": "left ear",
+			"from": [6, 14, 8.5],
+			"to": [7.5, 16, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 0]},
+			"faces": {
+				"north": {"uv": [10, 6, 12, 8], "texture": "#bat_front"},
+				"east": {"uv": [4, 6, 5, 8], "texture": "#bat_sides"},
+				"south": {"uv": [5, 6, 3, 8], "texture": "#bat_sides"},
+				"west": {"uv": [12, 6, 11, 8], "texture": "#bat_front"},
+				"up": {"uv": [12, 6, 10, 7], "texture": "#bat_front"}
+			}
+		},
+		{
+			"name": "right wing",
+			"from": [10, 9, 8.5],
+			"to": [13, 13, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 0]},
+			"faces": {
+				"north": {"uv": [3, 10, 7, 15], "texture": "#bat_front"},
+				"south": {"uv": [7, 10, 3, 15], "texture": "#bat_front"}
+			}
+		},
+		{
+			"name": "left wing",
+			"from": [3, 9, 8.5],
+			"to": [6, 13, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 0]},
+			"faces": {
+				"north": {"uv": [12, 10, 16, 15], "texture": "#bat_front"},
+				"south": {"uv": [16, 10, 12, 15], "texture": "#bat_front"}
+			}
+		},
+		{
+			"name": "wick",
+			"from": [8, 14, 7.5],
+			"to": [8, 15, 8.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 16.5, 8]},
+			"faces": {
+				"east": {"uv": [9, 15, 10, 16], "texture": "#bat_front"},
+				"west": {"uv": [9, 15, 10, 16], "texture": "#bat_front"}
+			}
+		},
+		{
+			"name": "wick",
+			"from": [7.5, 14, 8],
+			"to": [8.5, 15, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 16.5, 8]},
+			"faces": {
+				"north": {"uv": [9, 15, 10, 16], "texture": "#bat_front"},
+				"south": {"uv": [9, 15, 10, 16], "texture": "#bat_front"}
+			}
+		},
+		{
+			"name": "cake",
+			"from": [1, 0, 1],
+			"to": [15, 8, 15],
+			"faces": {
+				"north": {"uv": [1, 8, 15, 16], "texture": "#side"},
+				"east": {"uv": [1, 8, 15, 16], "texture": "#side"},
+				"south": {"uv": [1, 8, 15, 16], "texture": "#side"},
+				"west": {"uv": [1, 8, 15, 16], "texture": "#side"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#top"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#bottom"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, -135, 0],
+			"translation": [0, 2.5, 0]
+		}
+	}
+}

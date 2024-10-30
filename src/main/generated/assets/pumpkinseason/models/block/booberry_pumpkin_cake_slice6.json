@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/cake_slice6",
+  "textures": {
+    "bottom": "pumpkinseason:block/booberry_pumpkin_cake_bottom",
+    "inside": "pumpkinseason:block/booberry_pumpkin_cake_inner",
+    "particle": "pumpkinseason:block/booberry_pumpkin_cake_side",
+    "side": "pumpkinseason:block/booberry_pumpkin_cake_side",
+    "top": "pumpkinseason:block/booberry_pumpkin_cake_top"
+  }
+}

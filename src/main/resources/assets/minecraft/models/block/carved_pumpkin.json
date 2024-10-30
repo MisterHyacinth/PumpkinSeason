@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pumpkin_template",
+  "textures": {
+    "front": "minecraft:block/carved_pumpkin"
+  }
+}

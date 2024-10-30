@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "pumpkinseason:block/engraved_blackstone_pillar_end",
+    "side": "pumpkinseason:block/engraved_blackstone_pillar"
+  }
+}

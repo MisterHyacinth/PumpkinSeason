@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "pumpkinseason:block/booberry_bush_stage0"
+  }
+}

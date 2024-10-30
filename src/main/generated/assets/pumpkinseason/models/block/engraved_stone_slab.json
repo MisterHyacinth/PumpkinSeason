@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "pumpkinseason:block/engraved_stone",
+    "side": "pumpkinseason:block/engraved_stone_horizontal",
+    "top": "pumpkinseason:block/engraved_stone"
+  }
+}

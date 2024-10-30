@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pumpkinseason:tiny_pumpkin"
+    },
+    {
+      "item": "pumpkinseason:tiny_pumpkin"
+    },
+    {
+      "item": "pumpkinseason:tiny_pumpkin"
+    },
+    {
+      "item": "pumpkinseason:tiny_pumpkin"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "pumpkinseason:booberries"
+    },
+    {
+      "item": "pumpkinseason:booberries"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "id": "pumpkinseason:booberry_pumpkin_cookie"
+  }
+}

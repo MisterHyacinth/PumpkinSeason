@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "spooky_lanterns",
+  "ingredients": [
+    {
+      "item": "minecraft:lantern"
+    },
+    {
+      "tag": "pumpkinseason:raw_pumpkin_seeds"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "pumpkinseason:pumpkin_lantern"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "S S",
+    " S "
+  ],
+  "result": {
+    "count": 3,
+    "id": "pumpkinseason:hanging_cobweb"
+  }
+}

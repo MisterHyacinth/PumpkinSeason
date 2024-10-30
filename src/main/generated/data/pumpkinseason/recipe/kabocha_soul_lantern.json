@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": {
+      "item": "pumpkinseason:carved_kabocha"
+    },
+    "T": {
+      "item": "minecraft:soul_torch"
+    }
+  },
+  "pattern": [
+    "S",
+    "T"
+  ],
+  "result": {
+    "count": 1,
+    "id": "pumpkinseason:kabocha_soul_lantern"
+  }
+}

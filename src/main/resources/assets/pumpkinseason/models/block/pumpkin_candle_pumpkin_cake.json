@@ -1,0 +1,9 @@
+{
+	"parent": "pumpkinseason:block/template/pumpkin_candle_cake",
+	"textures": {
+		"pumpkin": "pumpkinseason:block/pumpkin_candle",
+		"top": "pumpkinseason:block/pumpkin_cake_top",
+		"side": "pumpkinseason:block/pumpkin_cake_side",
+		"bottom": "pumpkinseason:block/pumpkin_cake_bottom"
+	}
+}

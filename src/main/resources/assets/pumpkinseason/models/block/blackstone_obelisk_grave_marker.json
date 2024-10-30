@@ -1,0 +1,6 @@
+{
+	"parent": "pumpkinseason:block/template/stone_obelisk_grave_marker",
+	"textures": {
+		"texture": "pumpkinseason:block/blackstone_obelisk_grave_marker"
+	}
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_carved_kabocha": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pumpkinseason:carved_kabocha"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pumpkinseason:kabocha_lantern"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_carved_kabocha"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pumpkinseason:kabocha_lantern"
+    ]
+  }
+}

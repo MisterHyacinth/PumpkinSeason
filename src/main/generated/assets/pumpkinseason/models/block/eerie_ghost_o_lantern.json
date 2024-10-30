@@ -1,0 +1,6 @@
+{
+  "parent": "pumpkinseason:block/template/ghost_pumpkin",
+  "textures": {
+    "front": "pumpkinseason:block/eerie_ghost_o_lantern"
+  }
+}

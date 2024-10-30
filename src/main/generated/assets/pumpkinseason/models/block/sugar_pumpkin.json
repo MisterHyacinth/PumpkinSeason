@@ -1,0 +1,6 @@
+{
+  "parent": "pumpkinseason:block/template/sugar_pumpkin",
+  "textures": {
+    "front": "pumpkinseason:block/sugar_pumpkin_side"
+  }
+}

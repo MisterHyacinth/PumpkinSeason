@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "pumpkinseason:block/engraved_blackstone_pillar_cap",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "pumpkinseason:block/engraved_blackstone_pillar_cap_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "pumpkinseason:block/engraved_blackstone_pillar_cap_horizontal",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "pumpkinseason:block/engraved_blackstone_pillar_cap_horizontal",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "pumpkinseason:block/engraved_blackstone_pillar_cap"
+    },
+    "facing=west": {
+      "model": "pumpkinseason:block/engraved_blackstone_pillar_cap_horizontal",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

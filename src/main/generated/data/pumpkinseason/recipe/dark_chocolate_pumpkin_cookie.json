@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "P": {
+      "tag": "pumpkinseason:pumpkins"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    " # ",
+    "WPW",
+    " # "
+  ],
+  "result": {
+    "count": 8,
+    "id": "pumpkinseason:dark_chocolate_pumpkin_cookie"
+  }
+}

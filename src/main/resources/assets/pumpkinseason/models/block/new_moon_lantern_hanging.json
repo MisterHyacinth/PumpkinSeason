@@ -1,0 +1,10 @@
+{
+	"parent": "pumpkinseason:block/template/moon_hanging_lantern",
+	"textures": {
+		"front": "pumpkinseason:block/new_moon_lantern",
+		"side": "pumpkinseason:block/new_moon_lantern",
+		"back": "pumpkinseason:block/new_moon_lantern",
+		"top": "pumpkinseason:block/new_moon_lantern"
+
+	}
+}

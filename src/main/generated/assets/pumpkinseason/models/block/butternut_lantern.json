@@ -1,0 +1,6 @@
+{
+  "parent": "pumpkinseason:block/template/butternut_squash",
+  "textures": {
+    "front": "pumpkinseason:block/butternut_lantern"
+  }
+}

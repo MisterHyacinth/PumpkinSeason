@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:blackstone"
+    },
+    {
+      "item": "minecraft:polished_blackstone"
+    },
+    {
+      "item": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "item": "pumpkinseason:engraved_blackstone"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "pumpkinseason:engraved_blackstone_pillar"
+  }
+}

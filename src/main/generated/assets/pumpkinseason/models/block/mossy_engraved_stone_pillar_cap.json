@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "pumpkinseason:block/mossy_engraved_stone_pillar_end",
+    "side": "pumpkinseason:block/mossy_engraved_stone_pillar_cap"
+  }
+}

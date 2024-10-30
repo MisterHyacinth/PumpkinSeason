@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cake",
+  "textures": {
+    "bottom": "pumpkinseason:block/pumpkin_cake_bottom",
+    "particle": "pumpkinseason:block/pumpkin_cake_side",
+    "side": "pumpkinseason:block/pumpkin_cake_side",
+    "top": "pumpkinseason:block/pumpkin_cake_top"
+  }
+}

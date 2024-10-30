@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": [
+      {
+        "item": "minecraft:gray_carpet"
+      },
+      {
+        "item": "minecraft:light_gray_carpet"
+      }
+    ],
+    "L": {
+      "item": "minecraft:stone_slab"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    " S",
+    "CS",
+    "LL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "pumpkinseason:stone_gargoyle"
+  }
+}

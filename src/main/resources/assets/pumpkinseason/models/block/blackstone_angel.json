@@ -1,0 +1,10 @@
+{
+	"parent": "pumpkinseason:block/template/stone_angel",
+	"textures": {
+		"head": "pumpkinseason:block/blackstone_angel_head",
+		"arms": "pumpkinseason:block/blackstone_angel_arms",
+		"drapery": "pumpkinseason:block/blackstone_angel_drapery",
+		"wing": "pumpkinseason:block/blackstone_angel_wing",
+		"base": "pumpkinseason:block/blackstone_angel_base"
+	}
+}

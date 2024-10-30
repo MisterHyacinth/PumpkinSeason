@@ -1,0 +1,8 @@
+{
+	"parent": "pumpkinseason:block/template/pie",
+	"textures": {
+		"top": "pumpkinseason:block/booberry_pie_top",
+		"side": "pumpkinseason:block/booberry_pie_side",
+		"bottom": "pumpkinseason:block/booberry_pie_bottom"
+	}
+}

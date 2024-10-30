@@ -1,0 +1,7 @@
+{
+	"parent": "pumpkinseason:block/template/pumpkin_hanging_lantern_east",
+	"textures": {
+		"front": "pumpkinseason:block/pumpkin_lantern",
+		"side": "pumpkinseason:block/pumpkin_lantern_side"
+	}
+}

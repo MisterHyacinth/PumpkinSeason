@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_engraved_blackstone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pumpkinseason:engraved_blackstone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pumpkinseason:engraved_blackstone_stairs"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_engraved_blackstone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pumpkinseason:engraved_blackstone_stairs"
+    ]
+  }
+}

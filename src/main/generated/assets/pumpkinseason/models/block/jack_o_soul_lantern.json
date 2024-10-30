@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pumpkin_template",
+  "textures": {
+    "front": "pumpkinseason:block/jack_o_soul_lantern"
+  }
+}

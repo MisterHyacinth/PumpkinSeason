@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 600,
+  "experience": 0.1,
+  "ingredient": {
+    "tag": "pumpkinseason:raw_pumpkin_seeds"
+  },
+  "result": {
+    "id": "pumpkinseason:pepitas"
+  }
+}

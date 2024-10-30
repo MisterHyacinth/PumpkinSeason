@@ -1,0 +1,90 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "#front"
+	},
+	"elements": [
+		{
+			"name": "body",
+			"from": [5.5, 0, 5.5],
+			"to": [10.5, 8, 10.5],
+			"faces": {
+				"north": {"uv": [7, 8, 12, 16], "texture": "#front"},
+				"east": {"uv": [6, 8, 11, 16], "texture": "#sides"},
+				"south": {"uv": [0, 8, 5, 16], "texture": "#sides"},
+				"west": {"uv": [11, 8, 6, 16], "texture": "#sides"},
+				"up": {"uv": [0, 0, 5, 5], "texture": "#sides"},
+				"down": {"uv": [6, 0, 11, 5], "texture": "#sides", "cullface": "down"}
+			}
+		},
+		{
+			"name": "right ear",
+			"from": [8.5, 8, 8.5],
+			"to": [10.5, 10, 9.5],
+			"faces": {
+				"north": {"uv": [7, 6, 9, 8], "texture": "#front"},
+				"east": {"uv": [7, 6, 8, 8], "texture": "#front"},
+				"south": {"uv": [2, 6, 0, 8], "texture": "#sides"},
+				"west": {"uv": [0, 6, 1, 8], "texture": "#sides"},
+				"up": {"uv": [9, 6, 7, 7], "texture": "#front"}
+			}
+		},
+		{
+			"name": "left ear",
+			"from": [5.5, 8, 8.5],
+			"to": [7.5, 10, 9.5],
+			"faces": {
+				"north": {"uv": [10, 6, 12, 8], "texture": "#front"},
+				"east": {"uv": [4, 6, 5, 8], "texture": "#sides"},
+				"south": {"uv": [5, 6, 3, 8], "texture": "#sides"},
+				"west": {"uv": [12, 6, 11, 8], "texture": "#front"},
+				"up": {"uv": [12, 6, 10, 7], "texture": "#front"}
+			}
+		},
+		{
+			"name": "right wing",
+			"from": [10.5, 1, 8.5],
+			"to": [14.5, 6, 8.5],
+			"faces": {
+				"north": {"uv": [3, 10, 7, 15], "texture": "#front"},
+				"south": {"uv": [7, 10, 3, 15], "texture": "#front"}
+			}
+		},
+		{
+			"name": "left wing",
+			"from": [1.5, 1, 8.5],
+			"to": [5.5, 6, 8.5],
+			"faces": {
+				"north": {"uv": [12, 10, 16, 15], "texture": "#front"},
+				"south": {"uv": [16, 10, 12, 15], "texture": "#front"}
+			}
+		},
+		{
+			"name": "wick",
+			"from": [8, 8, 7.5],
+			"to": [8, 9, 8.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8.5, 8]},
+			"faces": {
+				"east": {"uv": [9, 15, 10, 16], "texture": "#front"},
+				"west": {"uv": [9, 15, 10, 16], "texture": "#front"}
+			}
+		},
+		{
+			"name": "wick",
+			"from": [7.5, 8, 8],
+			"to": [8.5, 9, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8.5, 8]},
+			"faces": {
+				"north": {"uv": [9, 15, 10, 16], "texture": "#front"},
+				"south": {"uv": [9, 15, 10, 16], "texture": "#front"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, -135, 0],
+			"translation": [0, 2.5, 0]
+		}
+	}
+}

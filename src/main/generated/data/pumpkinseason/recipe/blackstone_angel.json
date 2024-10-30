@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "L": {
+      "item": "minecraft:blackstone_slab"
+    },
+    "S": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "pattern": [
+    " S ",
+    "FSF",
+    " L "
+  ],
+  "result": {
+    "count": 1,
+    "id": "pumpkinseason:blackstone_angel"
+  }
+}

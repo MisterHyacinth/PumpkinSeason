@@ -1,0 +1,6 @@
+{
+  "parent": "pumpkinseason:block/template/kabocha",
+  "textures": {
+    "front": "pumpkinseason:block/carved_kabocha"
+  }
+}

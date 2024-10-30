@@ -1,0 +1,10 @@
+{
+	"parent": "pumpkinseason:block/template/stone_gargoyle",
+	"textures": {
+		"head": "pumpkinseason:block/eerie_blackstone_gargoyle_head",
+		"arm": "pumpkinseason:block/blackstone_gargoyle_arm",
+		"body": "pumpkinseason:block/blackstone_gargoyle_body",
+		"wing": "pumpkinseason:block/blackstone_gargoyle_wing",
+		"base": "pumpkinseason:block/blackstone_gargoyle_base"
+	}
+}

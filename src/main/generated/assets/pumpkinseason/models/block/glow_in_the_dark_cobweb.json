@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "pumpkinseason:block/glow_in_the_dark_cobweb"
+  }
+}

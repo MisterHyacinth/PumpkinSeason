@@ -1,0 +1,6 @@
+{
+	"parent": "pumpkinseason:block/template/pumpkin_candle",
+	"textures": {
+		"pumpkin": "pumpkinseason:block/pumpkin_candle_lit"
+	}
+}

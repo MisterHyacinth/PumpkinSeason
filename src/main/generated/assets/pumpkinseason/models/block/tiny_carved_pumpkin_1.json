@@ -1,0 +1,6 @@
+{
+  "parent": "pumpkinseason:block/template/one_tiny_pumpkin",
+  "textures": {
+    "front": "pumpkinseason:block/tiny_carved_pumpkin"
+  }
+}

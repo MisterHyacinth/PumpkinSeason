@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "pumpkinseason:block/stone_angel",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "pumpkinseason:block/stone_angel"
+    },
+    "facing=south": {
+      "model": "pumpkinseason:block/stone_angel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "pumpkinseason:block/stone_angel",
+      "y": 270
+    }
+  }
+}

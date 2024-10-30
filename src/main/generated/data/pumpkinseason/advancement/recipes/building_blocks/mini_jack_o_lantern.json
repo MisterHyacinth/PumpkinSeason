@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_carved_mini_pumpkin": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pumpkinseason:carved_mini_pumpkin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pumpkinseason:mini_jack_o_lantern"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_carved_mini_pumpkin"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pumpkinseason:mini_jack_o_lantern"
+    ]
+  }
+}

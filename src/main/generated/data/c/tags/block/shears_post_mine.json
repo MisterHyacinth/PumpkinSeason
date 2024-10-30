@@ -1,0 +1,17 @@
+{
+  "values": [
+    "#minecraft:leaves",
+    "#minecraft:wool",
+    "minecraft:cobweb",
+    "pumpkinseason:glow_in_the_dark_cobweb",
+    "pumpkinseason:green_cobweb",
+    "pumpkinseason:orange_cobweb",
+    "pumpkinseason:purple_cobweb",
+    "minecraft:short_grass",
+    "minecraft:fern",
+    "minecraft:dead_bush",
+    "minecraft:hanging_roots",
+    "minecraft:vine",
+    "minecraft:tripwire"
+  ]
+}

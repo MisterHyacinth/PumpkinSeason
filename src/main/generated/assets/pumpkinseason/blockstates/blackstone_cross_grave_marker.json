@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "pumpkinseason:block/blackstone_cross_grave_marker",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "pumpkinseason:block/blackstone_cross_grave_marker"
+    },
+    "facing=south": {
+      "model": "pumpkinseason:block/blackstone_cross_grave_marker",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "pumpkinseason:block/blackstone_cross_grave_marker",
+      "y": 270
+    }
+  }
+}

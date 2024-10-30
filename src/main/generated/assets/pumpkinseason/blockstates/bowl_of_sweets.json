@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "bites=0": {
+      "model": "pumpkinseason:block/bowl_of_sweets"
+    },
+    "bites=1": {
+      "model": "pumpkinseason:block/bowl_of_sweets_level1"
+    },
+    "bites=2": {
+      "model": "pumpkinseason:block/bowl_of_sweets_level2"
+    },
+    "bites=3": {
+      "model": "pumpkinseason:block/bowl_of_sweets_level3"
+    },
+    "bites=4": {
+      "model": "pumpkinseason:block/bowl_of_sweets_level4"
+    }
+  }
+}

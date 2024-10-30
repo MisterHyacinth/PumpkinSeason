@@ -1,0 +1,11 @@
+{
+	"parent": "pumpkinseason:block/template/moon_lantern",
+	"textures": {
+		"front": "pumpkinseason:block/new_moon_lantern",
+		"side": "pumpkinseason:block/crescent_moon_lantern",
+		"back": "pumpkinseason:block/full_moon_lantern",
+		"top": "pumpkinseason:block/crescent_moon_lantern_top",
+		"bottom": "pumpkinseason:block/crescent_moon_lantern_bottom"
+
+	}
+}

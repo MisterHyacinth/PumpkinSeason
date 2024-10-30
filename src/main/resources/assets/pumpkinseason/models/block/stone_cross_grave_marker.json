@@ -1,0 +1,7 @@
+{
+	"parent": "pumpkinseason:block/template/stone_cross_grave_marker",
+	"textures": {
+		"top": "pumpkinseason:block/stone_cross_grave_marker_top",
+		"bottom": "pumpkinseason:block/stone_cross_grave_marker_bottom"
+	}
+}

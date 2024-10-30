@@ -1,0 +1,7 @@
+{
+	"parent": "pumpkinseason:block/template/pumpkin_lantern",
+	"textures": {
+		"front": "pumpkinseason:block/creepy_pumpkin_lantern",
+		"side": "pumpkinseason:block/creepy_pumpkin_lantern_side"
+	}
+}

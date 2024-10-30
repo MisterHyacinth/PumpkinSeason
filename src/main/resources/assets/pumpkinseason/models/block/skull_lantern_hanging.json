@@ -1,0 +1,7 @@
+{
+	"parent": "pumpkinseason:block/template/skull_hanging_lantern",
+	"textures": {
+		"front": "pumpkinseason:block/skull_lantern",
+		"side": "pumpkinseason:block/skull_lantern_side"
+	}
+}

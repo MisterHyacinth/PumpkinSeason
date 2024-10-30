@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pumpkin_template",
+  "textures": {
+    "front": "pumpkinseason:block/eerie_jack_o_lantern"
+  }
+}

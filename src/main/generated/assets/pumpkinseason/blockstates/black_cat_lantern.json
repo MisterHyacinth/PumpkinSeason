@@ -1,0 +1,33 @@
+{
+  "variants": {
+    "facing=east,hanging=false": {
+      "model": "pumpkinseason:block/black_cat_lantern",
+      "y": 90
+    },
+    "facing=east,hanging=true": {
+      "model": "pumpkinseason:block/black_cat_lantern_hanging_east"
+    },
+    "facing=north,hanging=false": {
+      "model": "pumpkinseason:block/black_cat_lantern"
+    },
+    "facing=north,hanging=true": {
+      "model": "pumpkinseason:block/black_cat_lantern_hanging"
+    },
+    "facing=south,hanging=false": {
+      "model": "pumpkinseason:block/black_cat_lantern",
+      "y": 180
+    },
+    "facing=south,hanging=true": {
+      "model": "pumpkinseason:block/black_cat_lantern_hanging",
+      "y": 180
+    },
+    "facing=west,hanging=false": {
+      "model": "pumpkinseason:block/black_cat_lantern",
+      "y": 270
+    },
+    "facing=west,hanging=true": {
+      "model": "pumpkinseason:block/black_cat_lantern_hanging_east",
+      "y": 180
+    }
+  }
+}

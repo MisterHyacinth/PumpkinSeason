@@ -1,0 +1,7 @@
+{
+	"parent": "pumpkinseason:block/template/small_pumpkin",
+	"textures": {
+		"side": "pumpkinseason:block/midnight_pumpkin_side",
+		"top": "pumpkinseason:block/midnight_pumpkin_top"
+	}
+}

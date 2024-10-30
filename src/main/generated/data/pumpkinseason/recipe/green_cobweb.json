@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:cobweb"
+    },
+    "I": [
+      {
+        "item": "minecraft:green_dye"
+      },
+      {
+        "item": "minecraft:lime_dye"
+      }
+    ]
+  },
+  "pattern": [
+    " # ",
+    "#I#",
+    " # "
+  ],
+  "result": {
+    "count": 4,
+    "id": "pumpkinseason:green_cobweb"
+  }
+}

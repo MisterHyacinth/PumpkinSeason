@@ -1,0 +1,6 @@
+{
+  "parent": "pumpkinseason:block/template/hanging_cobweb",
+  "textures": {
+    "texture": "pumpkinseason:block/hanging_cobweb2"
+  }
+}

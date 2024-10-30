@@ -1,0 +1,10 @@
+{
+	"parent": "pumpkinseason:block/template/skull_candle_cake",
+	"textures": {
+		"skull_sides": "pumpkinseason:block/skull_candle_lit",
+		"skull_topbottom": "pumpkinseason:block/skull_candle_top_bottom_lit",
+		"top": "pumpkinseason:block/booberry_pumpkin_cake_top",
+		"side": "pumpkinseason:block/booberry_pumpkin_cake_side",
+		"bottom": "pumpkinseason:block/booberry_pumpkin_cake_bottom"
+	}
+}

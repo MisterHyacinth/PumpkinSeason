@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_carved_ghost_pumpkin": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pumpkinseason:carved_ghost_pumpkin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pumpkinseason:ghost_o_lantern"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_carved_ghost_pumpkin"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pumpkinseason:ghost_o_lantern"
+    ]
+  }
+}

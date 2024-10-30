@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": {
+    "tag": "pumpkinseason:raw_pumpkin_seeds"
+  },
+  "result": {
+    "id": "pumpkinseason:pepitas"
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "pumpkinseason:block/template/bat_candle",
+	"textures": {
+		"sides": "pumpkinseason:block/bat_candle_side_lit",
+		"front": "pumpkinseason:block/bat_candle_lit"
+	}
+}

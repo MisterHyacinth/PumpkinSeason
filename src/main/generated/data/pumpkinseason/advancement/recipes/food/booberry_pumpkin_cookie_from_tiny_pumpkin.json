@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_booberries": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pumpkinseason:booberries"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:booberry_pumpkin_cookie_from_tiny_pumpkin"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_booberries"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:booberry_pumpkin_cookie_from_tiny_pumpkin"
+    ]
+  }
+}

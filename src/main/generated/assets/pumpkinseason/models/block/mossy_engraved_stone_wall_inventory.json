@@ -1,0 +1,7 @@
+{
+  "parent": "pumpkinseason:block/template/wall_inventory",
+  "textures": {
+    "side": "pumpkinseason:block/mossy_engraved_stone_wall",
+    "top": "pumpkinseason:block/mossy_engraved_stone_wall_top"
+  }
+}

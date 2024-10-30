@@ -1,0 +1,10 @@
+{
+	"parent": "pumpkinseason:block/template/bat_candle_cake",
+	"textures": {
+		"bat_front": "pumpkinseason:block/bat_candle",
+		"bat_sides": "pumpkinseason:block/bat_candle_side",
+		"side": "pumpkinseason:block/pumpkin_cake_side",
+		"top": "pumpkinseason:block/pumpkin_cake_top",
+		"bottom": "pumpkinseason:block/pumpkin_cake_bottom"
+  }
+}

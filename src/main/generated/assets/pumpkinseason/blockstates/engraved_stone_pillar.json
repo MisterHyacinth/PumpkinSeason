@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "axis=x,part=bottom": {
+      "model": "pumpkinseason:block/engraved_stone_pillar_bottom_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,part=middle": {
+      "model": "pumpkinseason:block/engraved_stone_pillar_middle_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,part=singlet": {
+      "model": "pumpkinseason:block/engraved_stone_pillar_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,part=top": {
+      "model": "pumpkinseason:block/engraved_stone_pillar_top_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,part=bottom": {
+      "model": "pumpkinseason:block/engraved_stone_pillar_bottom"
+    },
+    "axis=y,part=middle": {
+      "model": "pumpkinseason:block/engraved_stone_pillar_middle"
+    },
+    "axis=y,part=singlet": {
+      "model": "pumpkinseason:block/engraved_stone_pillar"
+    },
+    "axis=y,part=top": {
+      "model": "pumpkinseason:block/engraved_stone_pillar_top"
+    },
+    "axis=z,part=bottom": {
+      "model": "pumpkinseason:block/engraved_stone_pillar_bottom_horizontal",
+      "x": 90
+    },
+    "axis=z,part=middle": {
+      "model": "pumpkinseason:block/engraved_stone_pillar_middle_horizontal",
+      "x": 90
+    },
+    "axis=z,part=singlet": {
+      "model": "pumpkinseason:block/engraved_stone_pillar_horizontal",
+      "x": 90
+    },
+    "axis=z,part=top": {
+      "model": "pumpkinseason:block/engraved_stone_pillar_top_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "pumpkinseason:block/template/mini_pumpkin",
+  "textures": {
+    "front": "pumpkinseason:block/eerie_mini_jack_o_lantern"
+  }
+}

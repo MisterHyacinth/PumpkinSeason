@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "pumpkinseason",
+	"version": "${version}",
+	"name": "Pumpkin Season",
+	"description": "A mod for the spookiest, squashiest time of the year.",
+	"authors": [
+		"Mister Hyacinth"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/pumpkin-season",
+		"sources": "https://github.com/MisterHyacinth/PumpkinSeason"
+	},
+	"license": "CC-BY-NC-SA-4.0",
+	"icon": "assets/pumpkinseason/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"misterhyacinth.pumpkinseason.PumpkinSeason"
+		],
+		"client": [
+			"misterhyacinth.pumpkinseason.PumpkinSeasonClient"
+		],
+		"fabric-datagen": [
+			"misterhyacinth.pumpkinseason.PumpkinSeasonDataGenerator"
+		]
+	},
+	"mixins": [
+		"pumpkinseason.mixins.json",
+		{
+			"config": "pumpkinseason.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.7",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,216 @@
+{
+  "variants": {
+    "corner=both,facing=east": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner_both",
+        "y": 90
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner_both",
+        "y": 270
+      }
+    ],
+    "corner=both,facing=north": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner_both"
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner_both",
+        "y": 180
+      }
+    ],
+    "corner=both,facing=south": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner_both",
+        "y": 180
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner_both"
+      }
+    ],
+    "corner=both,facing=west": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner_both",
+        "y": 270
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner_both",
+        "y": 90
+      }
+    ],
+    "corner=left,facing=east": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner",
+        "y": 270
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner1",
+        "y": 270
+      }
+    ],
+    "corner=left,facing=north": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner",
+        "y": 180
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner1",
+        "y": 180
+      }
+    ],
+    "corner=left,facing=south": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner"
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner1"
+      }
+    ],
+    "corner=left,facing=west": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner",
+        "y": 90
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner1",
+        "y": 90
+      }
+    ],
+    "corner=none,facing=east": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb",
+        "y": 90
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb1",
+        "y": 90
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb2",
+        "y": 90
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb",
+        "y": 270
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb1",
+        "y": 270
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb2",
+        "y": 270
+      }
+    ],
+    "corner=none,facing=north": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb"
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb1"
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb2"
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb",
+        "y": 180
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb1",
+        "y": 180
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb2",
+        "y": 180
+      }
+    ],
+    "corner=none,facing=south": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb",
+        "y": 180
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb1",
+        "y": 180
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb2",
+        "y": 180
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb"
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb1"
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb2"
+      }
+    ],
+    "corner=none,facing=west": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb",
+        "y": 270
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb1",
+        "y": 270
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb2",
+        "y": 270
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb",
+        "y": 90
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb1",
+        "y": 90
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb2",
+        "y": 90
+      }
+    ],
+    "corner=right,facing=east": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner",
+        "y": 90
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner1",
+        "y": 90
+      }
+    ],
+    "corner=right,facing=north": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner"
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner1"
+      }
+    ],
+    "corner=right,facing=south": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner",
+        "y": 180
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner1",
+        "y": 180
+      }
+    ],
+    "corner=right,facing=west": [
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner",
+        "y": 270
+      },
+      {
+        "model": "pumpkinseason:block/purple_hanging_cobweb_corner1",
+        "y": 270
+      }
+    ]
+  }
+}

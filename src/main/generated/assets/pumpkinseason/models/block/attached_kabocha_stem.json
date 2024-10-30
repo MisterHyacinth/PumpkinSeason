@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/stem_fruit",
+  "textures": {
+    "stem": "pumpkinseason:block/kabocha_stem",
+    "upperstem": "pumpkinseason:block/attached_kabocha_stem"
+  }
+}

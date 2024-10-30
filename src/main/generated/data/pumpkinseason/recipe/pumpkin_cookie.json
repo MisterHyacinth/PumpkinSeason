@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "P": {
+      "tag": "pumpkinseason:pumpkins"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    " # ",
+    "WPW",
+    " # "
+  ],
+  "result": {
+    "count": 8,
+    "id": "pumpkinseason:pumpkin_cookie"
+  }
+}

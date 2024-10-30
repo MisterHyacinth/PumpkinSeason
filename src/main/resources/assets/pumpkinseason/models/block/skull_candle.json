@@ -1,0 +1,7 @@
+{
+	"parent": "pumpkinseason:block/template/skull_candle",
+	"textures": {
+		"sides": "pumpkinseason:block/skull_candle",
+		"topbottom": "pumpkinseason:block/skull_candle_top_bottom"
+	}
+}

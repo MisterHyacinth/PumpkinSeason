@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "pumpkinseason:block/eerie_blackstone_gargoyle",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "pumpkinseason:block/eerie_blackstone_gargoyle"
+    },
+    "facing=south": {
+      "model": "pumpkinseason:block/eerie_blackstone_gargoyle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "pumpkinseason:block/eerie_blackstone_gargoyle",
+      "y": 270
+    }
+  }
+}

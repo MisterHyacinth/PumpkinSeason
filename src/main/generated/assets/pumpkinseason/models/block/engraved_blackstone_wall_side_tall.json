@@ -1,0 +1,7 @@
+{
+  "parent": "pumpkinseason:block/template/wall_side_tall",
+  "textures": {
+    "side": "pumpkinseason:block/engraved_blackstone_wall_side",
+    "top": "pumpkinseason:block/engraved_blackstone_wall_side_top"
+  }
+}

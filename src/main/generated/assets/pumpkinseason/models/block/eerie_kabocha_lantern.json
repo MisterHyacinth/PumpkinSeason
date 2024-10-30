@@ -1,0 +1,6 @@
+{
+  "parent": "pumpkinseason:block/template/kabocha",
+  "textures": {
+    "front": "pumpkinseason:block/eerie_kabocha_lantern"
+  }
+}

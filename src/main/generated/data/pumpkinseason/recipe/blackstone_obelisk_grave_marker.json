@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "minecraft:blackstone_slab"
+    },
+    "S": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "pattern": [
+    "S",
+    "S",
+    "L"
+  ],
+  "result": {
+    "count": 2,
+    "id": "pumpkinseason:blackstone_obelisk_grave_marker"
+  }
+}

@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"stem": "minecraft:block/pumpkin_block_stem",
+		"top": "minecraft:block/pumpkin_top",
+        	"side": "minecraft:block/pumpkin_side",
+		"particle": "#side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#front", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "down"}
+			}
+		},
+		{
+			"from": [6, 16, 6],
+			"to": [10, 20, 10],
+			"faces": {
+				"north": {"uv": [6, 12, 10, 16], "texture": "#stem", "cullface": "up"},
+				"east": {"uv": [6, 12, 10, 16], "texture": "#stem", "cullface": "up"},
+				"south": {"uv": [6, 12, 10, 16], "texture": "#stem", "cullface": "up"},
+				"west": {"uv": [6, 12, 10, 16], "texture": "#stem", "cullface": "up"},
+				"up": {"uv": [6, 8, 10, 12], "texture": "#stem", "cullface": "up"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, 135, 0],
+			"scale": [0.4, 0.4, 0.4]
+		}
+	}
+}

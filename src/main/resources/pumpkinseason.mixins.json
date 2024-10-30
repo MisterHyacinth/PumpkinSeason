@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "misterhyacinth.pumpkinseason.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CarvedPumpkinBlockMixin",
+    "EndermanEntityMixin",
+    "FlintAndSteelItemMixin",
+    "ShearsItemMixin",
+    "SwordItemMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

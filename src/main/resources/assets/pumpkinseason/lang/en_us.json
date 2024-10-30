@@ -1,0 +1,214 @@
+{
+
+ "tag.item.pumpkinseason.carved_squash": "Carved Squash",
+ "tag.item.pumpkinseason.raw_pumpkin_seeds": "Raw Pumpkin Seeds",
+ "tag.item.pumpkinseason.bird_seed": "Bird Seed",
+ "tag.item.c.seeds": "Seeds",
+ "tag.item.c.candy": "Candy",
+
+ "subtitles.pumpkinseason.eerie.ambient": "Eerie noise",
+
+ "block.pumpkinseason.jack_o_soul_lantern": "Jack o' Soul Lantern",
+ "block.pumpkinseason.eerie_jack_o_lantern": "Eerie Jack o'Lantern",
+
+ "block.pumpkinseason.attached_butternut_stem": "Attached Butternut Stem",
+ "block.pumpkinseason.butternut_stem": "Butternut Stem",
+ "block.pumpkinseason.butternut_squash": "Butternut Squash",
+ "block.pumpkinseason.carved_butternut_squash": "Carved Butternut Squash",
+ "block.pumpkinseason.butternut_lantern": "Butternut Lantern",
+ "block.pumpkinseason.butternut_soul_lantern": "Butternut Soul Lantern",
+ "block.pumpkinseason.eerie_butternut_lantern": "Eerie Butternut Lantern",
+
+ "block.pumpkinseason.attached_ghost_pumpkin_stem": "Attached Ghost Pumpkin Stem",
+ "block.pumpkinseason.ghost_pumpkin_stem": "Ghost Pumpkin Stem",
+ "block.pumpkinseason.ghost_pumpkin": "Ghost Pumpkin",
+ "block.pumpkinseason.carved_ghost_pumpkin": "Carved Ghost Pumpkin",
+ "block.pumpkinseason.ghost_o_lantern": "Ghost o'Lantern",
+ "block.pumpkinseason.ghost_o_soul_lantern": "Ghost o' Soul Lantern",
+ "block.pumpkinseason.eerie_ghost_o_lantern": "Eerie Ghost o'Lantern",
+
+ "block.pumpkinseason.attached_kabocha_stem": "Attached Kabocha Stem",
+ "block.pumpkinseason.kabocha_stem": "Kabocha Stem",
+ "block.pumpkinseason.kabocha": "Kabocha",
+ "block.pumpkinseason.carved_kabocha": "Carved Kabocha",
+ "block.pumpkinseason.kabocha_lantern": "Kabocha Lantern",
+ "block.pumpkinseason.kabocha_soul_lantern": "Kabocha Soul Lantern",
+ "block.pumpkinseason.eerie_kabocha_lantern": "Eerie Kabocha Lantern",
+
+ "block.pumpkinseason.attached_midnight_pumpkin_stem": "Attached Midnight Pumpkin Stem",
+ "block.pumpkinseason.midnight_pumpkin_stem": "Midnight Pumpkin Stem",
+ "block.pumpkinseason.midnight_pumpkin": "Midnight Pumpkin",
+ "block.pumpkinseason.carved_midnight_pumpkin": "Carved Midnight Pumpkin",
+ "block.pumpkinseason.midnight_o_lantern": "Midnight o'Lantern",
+ "block.pumpkinseason.midnight_o_soul_lantern": "Midnight o' Soul Lantern",
+ "block.pumpkinseason.eerie_midnight_o_lantern": "Eerie Midnight o'Lantern",
+
+ "block.pumpkinseason.attached_mini_pumpkin_stem": "Attached Mini Pumpkin Stem",
+ "block.pumpkinseason.mini_pumpkin_stem": "Mini Pumpkin Stem",
+ "block.pumpkinseason.mini_pumpkin": "Mini Pumpkin",
+ "block.pumpkinseason.carved_mini_pumpkin": "Carved Mini Pumpkin",
+ "block.pumpkinseason.mini_jack_o_lantern": "Mini Jack o'Lantern",
+ "block.pumpkinseason.mini_jack_o_soul_lantern": "Mini Jack o' Soul Lantern",
+ "block.pumpkinseason.eerie_mini_jack_o_lantern": "Eerie Mini Jack o'Lantern",
+
+ "block.pumpkinseason.attached_sugar_pumpkin_stem": "Attached Sugar Pumpkin Stem",
+ "block.pumpkinseason.sugar_pumpkin_stem": "Sugar Pumpkin Stem",
+ "block.pumpkinseason.sugar_pumpkin": "Sugar Pumpkin",
+ "block.pumpkinseason.carved_sugar_pumpkin": "Carved Sugar Pumpkin",
+ "block.pumpkinseason.sugar_o_lantern": "Sugar o'Lantern",
+ "block.pumpkinseason.sugar_o_soul_lantern": "Sugar o' Soul Lantern",
+ "block.pumpkinseason.eerie_sugar_o_lantern": "Eerie Sugar o'Lantern",
+
+ "block.pumpkinseason.attached_tiny_pumpkin_stem": "Attached Tiny Pumpkin Stem",
+ "block.pumpkinseason.tiny_pumpkin_stem": "Tiny Pumpkin Stem",
+ "block.pumpkinseason.tiny_pumpkin": "Tiny Pumpkin",
+ "block.pumpkinseason.tiny_carved_pumpkin": "Tiny Carved Pumpkin",
+ "block.pumpkinseason.tiny_jack_o_lantern": "Tiny Jack o'Lantern",
+ "block.pumpkinseason.tiny_jack_o_soul_lantern": "Tiny Jack o' Soul Lantern",
+ "block.pumpkinseason.tiny_eerie_jack_o_lantern": "Tiny Eerie Jack o'Lantern",
+
+
+ "item.pumpkinseason.butternut_seeds": "Butternut Seeds",
+ "item.pumpkinseason.ghost_pumpkin_seeds": "Ghost Pumpkin Seeds",
+ "item.pumpkinseason.kabocha_seeds": "Kabocha Seeds",
+ "item.pumpkinseason.midnight_pumpkin_seeds": "Midnight Pumpkin Seeds",
+ "item.pumpkinseason.mini_pumpkin_seeds": "Mini Pumpkin Seeds",
+ "item.pumpkinseason.sugar_pumpkin_seeds": "Sugar Pumpkin Seeds",
+ "item.pumpkinseason.tiny_pumpkin_seeds": "Tiny Pumpkin Seeds",
+
+ "item.pumpkinseason.pepitas": "Pepitas",
+
+
+ "block.pumpkinseason.skull_lantern": "Skull Lantern",
+ "block.pumpkinseason.wither_skull_lantern": "Wither Skull Lantern",
+ "block.pumpkinseason.bat_lantern": "Bat Lantern",
+ "block.pumpkinseason.spider_lantern": "Spider Lantern",
+ "block.pumpkinseason.pumpkin_lantern": "Pumpkin Lantern",
+ "block.pumpkinseason.creepy_pumpkin_lantern": "Creepy Pumpkin Lantern",
+ "block.pumpkinseason.ghastly_lantern": "Ghastly Lantern",
+ "block.pumpkinseason.crescent_moon_lantern": "Crescent Moon Lantern",
+ "block.pumpkinseason.black_cat_lantern": "Black Cat Lantern",
+
+
+
+ "block.pumpkinseason.booberry_bush": "Booberry Bush",
+ "item.pumpkinseason.booberries": "Booberries",
+
+
+ "item.pumpkinseason.chocolate_candy": "Chocolate Candy",
+ "item.pumpkinseason.booberry_candy": "Booberry Candy",
+ "item.pumpkinseason.glowberry_candy": "Glowberry Candy",
+ "item.pumpkinseason.melon_candy": "Melon Candy",
+ "item.pumpkinseason.sweet_berry_candy": "Sweet Berry Candy",
+
+ "block.pumpkinseason.bowl_of_sweets": "Bowl of Sweets",
+
+
+ "item.pumpkinseason.pumpkin_cookie": "Pumpkin Cookie",
+ "item.pumpkinseason.booberry_pumpkin_cookie": "Booberry Pumpkin Cookie",
+ "item.pumpkinseason.dark_chocolate_pumpkin_cookie": "Dark Chocolate Pumpkin Cookie",
+
+
+ "block.pumpkinseason.skull_candle": "Skull Candle",
+ "block.pumpkinseason.bat_candle": "Bat Candle",
+ "block.pumpkinseason.pumpkin_candle": "Pumpkin Candle",
+ "block.pumpkinseason.creepy_pumpkin_candle": "Creepy Pumpkin Candle",
+
+ "block.pumpkinseason.pumpkin_cake": "Pumpkin Cake",
+ "block.pumpkinseason.dark_chocolate_pumpkin_cake": "Dark Chocolate Pumpkin Cake",
+ "block.pumpkinseason.booberry_pumpkin_cake": "Booberry Pumpkin Cake",
+
+ "block.pumpkinseason.skull_candle_pumpkin_cake": "Pumpkin Cake with Skull Candle",
+ "block.pumpkinseason.skull_candle_dark_chocolate_pumpkin_cake": "Dark Chocolate Pumpkin Cake with Skull Candle",
+ "block.pumpkinseason.skull_candle_booberry_pumpkin_cake": "Booberry Pumpkin Cake with Skull Candle",
+
+ "block.pumpkinseason.bat_candle_pumpkin_cake": "Pumpkin Cake with Bat Candle",
+ "block.pumpkinseason.bat_candle_dark_chocolate_pumpkin_cake": "Dark Chocolate Pumpkin Cake with Bat Candle",
+ "block.pumpkinseason.bat_candle_booberry_pumpkin_cake": "Booberry Pumpkin Cake with Bat Candle",
+
+ "block.pumpkinseason.pumpkin_candle_pumpkin_cake": "Pumpkin Cake with Pumpkin Candle",
+ "block.pumpkinseason.pumpkin_candle_dark_chocolate_pumpkin_cake": "Dark Chocolate Pumpkin Cake with Pumpkin Candle",
+ "block.pumpkinseason.pumpkin_candle_booberry_pumpkin_cake": "Booberry Pumpkin Cake with Pumpkin Candle",
+
+ "block.pumpkinseason.creepy_pumpkin_candle_pumpkin_cake": "Pumpkin Cake with Creepy Pumpkin Candle",
+ "block.pumpkinseason.creepy_pumpkin_candle_dark_chocolate_pumpkin_cake": "Dark Chocolate Pumpkin Cake with Creepy Pumpkin Candle",
+ "block.pumpkinseason.creepy_pumpkin_candle_booberry_pumpkin_cake": "Booberry Pumpkin Cake with Creepy Pumpkin Candle",
+
+
+ "block.pumpkinseason.jack_o_lantern_pie": "Jack o'Lantern Pie",
+ "block.pumpkinseason.booberry_pie": "Booberry Pie",
+
+
+
+ "block.pumpkinseason.stone_gargoyle": "Stone Gargoyle",
+ "block.pumpkinseason.blackstone_gargoyle": "Blackstone Gargoyle",
+ "block.pumpkinseason.eerie_stone_gargoyle": "Eerie Stone Gargoyle",
+ "block.pumpkinseason.eerie_blackstone_gargoyle": "Eerie Blackstone Gargoyle",
+
+ "block.pumpkinseason.stone_angel": "Stone Angel",
+ "block.pumpkinseason.blackstone_angel": "Blackstone Angel",
+ "block.pumpkinseason.eerie_stone_angel": "Eerie Stone Angel",
+ "block.pumpkinseason.eerie_blackstone_angel": "Eerie Blackstone Angel",
+
+ "block.pumpkinseason.stone_grave_marker": "Stone Grave Marker",
+ "block.pumpkinseason.blackstone_grave_marker": "Blackstone Grave Marker",
+ "block.pumpkinseason.eerie_stone_grave_marker": "Eerie Stone Grave Marker",
+ "block.pumpkinseason.eerie_blackstone_grave_marker": "Eerie Blackstone Grave Marker",
+
+ "block.pumpkinseason.stone_cross_grave_marker": "Stone Cross Grave Marker",
+ "block.pumpkinseason.blackstone_cross_grave_marker": "Blackstone Cross Grave Marker",
+ "block.pumpkinseason.stone_obelisk_grave_marker": "Stone Obelisk Grave Marker",
+ "block.pumpkinseason.blackstone_obelisk_grave_marker": "Blackstone Obelisk Grave Marker",
+
+
+ "block.pumpkinseason.engraved_stone": "Engraved Stone",
+ "block.pumpkinseason.engraved_stone_stairs": "Engraved Stone Stairs",
+ "block.pumpkinseason.engraved_stone_slab": "Engraved Stone Slab",
+ "block.pumpkinseason.engraved_stone_wall": "Engraved Stone Wall",
+ "block.pumpkinseason.engraved_stone_pillar": "Engraved Stone Pillar",
+ "block.pumpkinseason.engraved_stone_pillar_cap": "Engraved Stone Pillar Cap",
+
+ "block.pumpkinseason.mossy_engraved_stone": "Mossy Engraved Stone",
+ "block.pumpkinseason.mossy_engraved_stone_stairs": "Mossy Engraved Stone Stairs",
+ "block.pumpkinseason.mossy_engraved_stone_slab": "Mossy Engraved Stone Slab",
+ "block.pumpkinseason.mossy_engraved_stone_wall": "Mossy Engraved Stone Wall",
+ "block.pumpkinseason.mossy_engraved_stone_pillar": "Mossy Engraved Stone Pillar",
+ "block.pumpkinseason.mossy_engraved_stone_pillar_cap": "Mossy Engraved Stone Pillar Cap",
+
+ "block.pumpkinseason.engraved_blackstone": "Engraved Blackstone",
+ "block.pumpkinseason.engraved_blackstone_stairs": "Engraved Blackstone Stairs",
+ "block.pumpkinseason.engraved_blackstone_slab": "Engraved Blackstone Slab",
+ "block.pumpkinseason.engraved_blackstone_wall": "Engraved Blackstone Wall",
+ "block.pumpkinseason.engraved_blackstone_pillar": "Engraved Blackstone Pillar",
+ "block.pumpkinseason.engraved_blackstone_pillar_cap": "Engraved Blackstone Pillar Cap",
+
+
+
+
+
+
+
+
+
+
+ "block.pumpkinseason.glow_in_the_dark_cobweb": "Glow-In-The-Dark Cobweb",
+ "block.pumpkinseason.green_cobweb": "Green Cobweb",
+ "block.pumpkinseason.orange_cobweb": "Orange Cobweb",
+ "block.pumpkinseason.purple_cobweb": "Purple Cobweb",
+
+
+ "block.pumpkinseason.hanging_cobweb": "Hanging Cobweb",
+ "block.pumpkinseason.glow_in_the_dark_hanging_cobweb": "Glow-In-The-Dark Hanging Cobweb",
+ "block.pumpkinseason.green_hanging_cobweb": "Green Hanging Cobweb",
+ "block.pumpkinseason.orange_hanging_cobweb": "Orange Hanging Cobweb",
+ "block.pumpkinseason.purple_hanging_cobweb": "Purple Hanging Cobweb",
+
+
+
+
+
+
+ "itemGroup.pumpkinseason.pumpkinseason": "Pumpkin Season"
+
+
+}

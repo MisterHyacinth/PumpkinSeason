@@ -1,0 +1,7 @@
+{
+	"parent": "pumpkinseason:block/template/stone_grave_marker",
+	"textures": {
+		"front": "pumpkinseason:block/eerie_blackstone_grave_marker",
+		"side": "pumpkinseason:block/blackstone_grave_marker_side"
+	}
+}

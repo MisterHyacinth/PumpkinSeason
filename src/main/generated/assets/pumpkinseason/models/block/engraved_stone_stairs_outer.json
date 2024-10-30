@@ -1,0 +1,9 @@
+{
+  "parent": "pumpkinseason:block/template/outer_sided_stairs",
+  "textures": {
+    "bottom": "pumpkinseason:block/engraved_stone",
+    "front": "pumpkinseason:block/engraved_stone_horizontal",
+    "side": "pumpkinseason:block/engraved_stone_corners",
+    "top": "pumpkinseason:block/engraved_stone_corners"
+  }
+}
